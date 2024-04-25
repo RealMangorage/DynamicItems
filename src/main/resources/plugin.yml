@@ -1,0 +1,4 @@
+name: DynamicItems
+version: '${version}'
+main: org.mangorage.dynamicitems.DynamicItems
+api-version: '1.20'
